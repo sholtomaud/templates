@@ -13,5 +13,5 @@ Things Done:
 6. Added & started pm2
 7. Tested sample app at 128.199.215.62:80
 8. Installed pm2 as a service
-
+9. Installed mongoose.js locally
 

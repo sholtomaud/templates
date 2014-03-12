@@ -1,8 +1,6 @@
-== Project title
-=== Repo name
-
-| Task          | Date          | Hours   | Cost  |
-| ------------- |:-------------:|:--------|------:|
-| Task 1        | right-aligned | 4.8     | $1600 | 
-| Task3         | centered      | 4.8     | $12   |
-| Task3         | "2014-02-22"  | 4.8     |    $1 |
+###Timesheet
+| Task          | User |Date          | Hours   | Cost  | Redeemed |
+| ------------- |:-----|:-------------:|:--------|------:|:--------:|
+| Task 1        | SHM |"2014-02-22"  | 4.8     | $1600 | Y |
+| Task3         | SHM |"2014-02-22"  | 4.8     | $12   | N |
+| Task3         | SHM |"2014-02-22"  | 4.8     |    $1 | Y |
